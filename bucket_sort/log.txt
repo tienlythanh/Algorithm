@@ -1,0 +1,40 @@
+Test case 1
+Array length 514855
+Excute time: 26.409225702285767s
+
+Test case 2
+Array length 610167
+Excute time: 34.804731130599976s
+
+Test case 3
+Array length 273432
+Excute time: 10.426228284835815s
+
+Test case 4
+Array length 318591
+Excute time: 14.351458549499512s
+
+Test case 5
+Array length 386596
+Excute time: 17.706481218338013s
+
+Test case 6
+Array length 910713
+Excute time: 66.26244759559631s
+
+Test case 7
+Array length 359713
+Excute time: 15.816479921340942s
+
+Test case 8
+Array length 122624
+Excute time: 3.249876022338867s
+
+Test case 9
+Array length 291281
+Excute time: 11.810681104660034s
+
+Test case 10
+Array length 741756
+Excute time: 48.30872368812561s
+
